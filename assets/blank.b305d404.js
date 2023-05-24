@@ -1,0 +1,1 @@
+import{_,g as o,o as n,c as t,a as s}from"./index.3d51dc40.js";const a={},c={class:"tdesign-wrapper"};function r(d,l){const e=o("router-view");return n(),t("div",c,[s(e)])}const p=_(a,[["render",r],["__scopeId","data-v-6d4bf486"],["__file","D:/Code/Own/base_admin_front/src/layouts/blank.vue"]]);export{p as default};
