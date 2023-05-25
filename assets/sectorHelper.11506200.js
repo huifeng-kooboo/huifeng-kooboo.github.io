@@ -1,0 +1,1 @@
+import{i as u,X as o,aG as s}from"./charts.b6dab140.js";function d(e,a,n){var r=e.get("borderRadius");if(r==null)return n?{cornerRadius:0}:null;u(r)||(r=[r,r,r,r]);var i=Math.abs(a.r||0-a.r0||0);return{cornerRadius:o(r,function(t){return s(t,i)})}}export{d as g};

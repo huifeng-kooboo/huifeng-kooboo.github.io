@@ -1,0 +1,1 @@
+import{d as e,_ as n,o as a,c as o}from"./index.91c68481.js";const r=e({name:"FrameBlank"});function s(t,c,_,m,p,l){return a(),o("div")}const f=n(r,[["render",s],["__file","D:/coding/personal/base_admin_front/src/layouts/components/FrameBlank.vue"]]);export{f as default};
